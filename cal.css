@@ -1,0 +1,11 @@
+body{
+    background-image:url(cal6.jpg);
+    text-align: center;
+}
+.cal{
+    margin-left:245px;
+}
+
+.buttons button:hover{
+    background-color: rgb(42, 58, 235);
+}
